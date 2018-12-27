@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MineMvpDemo</string>
+    <string name="get">get</string>
+    <string name="two">two</string>
+</resources>
